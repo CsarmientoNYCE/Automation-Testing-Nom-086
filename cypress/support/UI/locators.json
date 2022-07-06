@@ -1,0 +1,13 @@
+{
+    "loginPagelocators":{
+        "username": "#ctl00_PlaceHolderMain_signInControl_UserName",
+        "password": "#ctl00_PlaceHolderMain_signInControl_password",
+        "loginBtn": "#ctl00_PlaceHolderMain_signInControl_login"
+    },
+    "loginAnalist":{
+        "username": "Nombre de usuario",
+        "password": "Contraseña",
+        "loginBtn": "Aceptar",
+        "loginLink":".col-sm-12 > a"
+    }
+}
